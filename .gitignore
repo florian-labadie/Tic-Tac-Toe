@@ -1,0 +1,29 @@
+# Python Bytecode
+src/__pycache__/
+
+# Configuration de l'IDE
+.vscode/
+.idea/
+
+# Fichiers de logs
+*.log
+
+# Fichiers d'entrée
+input/
+
+# Fichiers temporaires et autres fichiers de cache
+*.tmp
+*.temp
+*.bak
+*.backup
+*.old
+*.orig
+*.retry
+*.rej
+*.~*
+
+# Caches
+*.cache
+*.pycache
+__pycache__/
+*.sqlite3
