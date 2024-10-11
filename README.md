@@ -50,10 +50,10 @@ Cela lancera le script Bash qui appelle le programme Python. Le jeu commencera d
 
 ### Règles du Jeu
 
-1- Le jeu affiche une grille 3x3.
-2- Le joueur humain choisit où placer son symbole (X) en entrant d'abord la ligne puis la colonne correspondant à la case voulu.
-3- L'IA jouera ensuite son coup optimal (O).
-4- Le jeu continue jusqu'à ce que l'un des joueurs gagne ou que la grille soit pleine.
+1. Le jeu affiche une grille 3x3.
+2. Le joueur humain choisit où placer son symbole (X) en entrant d'abord la ligne puis la colonne correspondant à la case voulu.
+3. L'IA jouera ensuite son coup optimal (O).
+4. Le jeu continue jusqu'à ce que l'un des joueurs gagne ou que la grille soit pleine.
 
 ### Options
 
